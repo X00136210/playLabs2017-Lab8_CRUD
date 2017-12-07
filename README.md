@@ -1,0 +1,3 @@
+# playLabs2017-Lab8_CRUD
+Have trouble pushing the repository so i'm uploading a finished .zip file instead...
+Blin
